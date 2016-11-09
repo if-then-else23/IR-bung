@@ -1,0 +1,14 @@
+- soll der code fehler absichern (z.B. syntax-fehler in der json-datei)?
+
+-jahr aus release-date(germany?) oder hinter titel?
+
+(-warum gibt es im html-text (tr) die unterscheidung find result odd und find result even?)
+
+------------------------------------------------------------------------------------------------
+-auf UTF-8-Codierung achten!
+-Jeden Film in extra Json Datei!
+-wenn Film nicht gefunden-kann leerer String in Json
+-executable jar mit Export
+-auch neue Klassen können angelegt werden
+
+-GITHUB
